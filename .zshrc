@@ -1,0 +1,1 @@
+export PATH="$PATH:/Users/windversi/flutter/bin"
